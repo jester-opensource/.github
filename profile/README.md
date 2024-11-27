@@ -1,7 +1,5 @@
 # 🤡 Jester - Discord Gambling Bot 🎰
 
-![Jester Banner](https://i.imgur.com/LeWGX52.png)
-
 Jester is an open-source Discord bot that provides a fun and interactive gambling experience for your server. Users can play a slot machine-style game using the `/gamble` command. 🎲
 
 ## 🔑 Key Features
